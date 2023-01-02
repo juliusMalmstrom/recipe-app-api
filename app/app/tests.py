@@ -21,7 +21,7 @@ class CalcTests(SimpleTestCase):
         self.assertEquals(res, 5)
 
     def test_multiply_numbers(self):
-        """Testing multiplying numbers"""
+        """Testing multiplying numbers."""
         res = calc.multiply(3,3)
 
         self.assertEquals(res,9)

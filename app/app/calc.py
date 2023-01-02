@@ -11,5 +11,5 @@ def subtract(x,y):
     return y-x
 
 def multiply(x,y):
-    """Multiply x with y"""
+    """Multiply x with y."""
     return x*y
